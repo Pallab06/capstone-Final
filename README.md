@@ -37,18 +37,14 @@ Credit Cards in Europe
 -	European countries have strong consumer protection rules for credit cards, but these rules can vary.  
 -	In some countries, like Germany, people use debit cards more often than credit cards.
 
-Dataset overview
+# Dataset overview
 The dataset contains credit card transactions made by European cardholders over two days in September 2013. It includes 284,807 transactions, with only 492 being fraudulent. This means frauds make up just 0.172% of the data, making the dataset highly unbalanced. Detecting fraud in such cases is challenging because the number of fraudulent transactions is very small compared to legitimate ones.
 The dataset has 28 features (V1 to V28) that were transformed using Principal Component Analysis (PCA), a technique used to simplify data while keeping its structure
 
-
-
-
-
- Goal
+# Goal
 The primary goal of this project is to develop a highly accurate and reliable fraud detection model for credit card transactions. Fraudulent transactions can cause significant financial losses, and this model aims to minimize such risks by detecting fraudulent transactions with high precision and recall.
 
- Step 1: Importing Required Libraries
+ # Step 1: Importing Required Libraries
 I begin by importing the necessary Python libraries for data handling, visualization, feature selection, model training, and evaluation. Libraries like Pandas and NumPy help with data manipulation, Matplotlib and Seaborn assist in data visualization, while Scikit-learn provides tools for model selection, training, and validation.
 
 Step 2: Loading the Dataset
@@ -62,8 +58,6 @@ Feature Distribution: I use boxplots to analyze how different features are distr
 Transaction Amount Analysis: A comparison of transaction amounts between fraudulent and non-fraudulent transactions helps understand transaction patterns.
 Histogram Visualization: Histograms of numerical features provide insights into data distribution, skewness, and potential normalization needs.
 Correlation Matrix: A heatmap is used to examine relationships between different features, which aids in feature selection and elimination of redundant variables.
-
-
 
 Step 4: Handling Missing Values
 Missing values can negatively impact machine learning models. I fill missing values with the median of their respective columns, as median imputation is robust against outliers and preserves the overall data structure.
