@@ -133,18 +133,26 @@ Scalability: Expand to large financial datasets with distributed computing.
 
 # Business Benefits
 •	Reduced Financial Loss Early detection minimizes fraud-related losses.
+
 •	Enhanced Security: Protects customers from fraudulent activities.
+
 •	Improved Customer Trust: Reliable fraud prevention strengthens brand reputation.
+
 •	Regulatory Compliance: Helps banks meet fraud prevention standards.
 
 # Summary
 This project presents a complete credit card fraud detection pipeline, covering data preprocessing, exploratory data analysis, feature engineering, model selection, training, validation, and deployment. The use of SMOTE, feature selection, and hyperparameter tuning ensures a highly effective fraud detection system. The model can be further improved by incorporating deep learning techniques, real-time detection capabilities, and self-learning mechanisms to adapt to evolving fraud patterns.
 
 # Why my Code is Better
+
 •	Balanced Data Handling: Uses SMOTE to address class imbalance.
+
 •	Feature Selection: Improves efficiency by selecting the most relevant features.
+
 •	Hyperparameter Tuning: Optimizes performance.
+
 •	Comprehensive EDA: Provides detailed insights into fraud patterns.
+
 •	Scalability: Can be extended with deep learning and real-time processing.
 
 
