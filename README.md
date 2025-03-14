@@ -1,7 +1,9 @@
 # Final capstone
 # Credit Card Fraud prediction
 Author - Pallab Bhandari
+
 Course - Data Science Bootcamp by UpGrad
+
 Published - March 15th 2025
 # Introduction credit card
 Credit cards are widely used for online shopping and payments, but they are also at risk of fraud. Fraud happens when someone steals and uses another person's credit card details without permission. This causes financial losses for cardholders and creates challenges for credit card companies in detecting and stopping these illegal activities.
