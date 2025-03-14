@@ -1,1 +1,4 @@
-# capstone
+# Final capstone
+Introduction credit card
+Credit cards are widely used for online shopping and payments, but they are also at risk of fraud. Fraud happens when someone steals and uses another person's credit card details without permission. This causes financial losses for cardholders and creates challenges for credit card companies in detecting and stopping these illegal activities.
+As more financial services move online, fraudsters have become more advanced, using new methods to get around security systems. Reports show that credit card fraud costs billions of dollars each year globally. To fight this, fraud detection systems need to keep improving. Machine learning and artificial intelligence (AI) are now key tools in this fight. They can quickly analyze millions of transactions and spot unusual patterns that older systems might miss. This helps protect consumers and reduce fraud.
